@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Message",
+  "base_artist": "Dr. Dre",
+  "createdAt": "2026-03-10T22:35:47.074888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get the Message",
+      "artist": "Lusine",
+      "has_synced": true,
+      "path": "select/01_Get_the_Message_Lusine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/02_The_Message_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Mike Peters",
+      "has_synced": false,
+      "path": "select/03_The_Message_Mike_Peters.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/04_The_Message_Nas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trouble in the Message Centre",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/05_Trouble_in_the_Message_Centre_Blur.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Got the Message",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/06_I_Got_the_Message_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Message In the Middle of the Bottom",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/07_The_Message_In_the_Middle_of_the_Bottom_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Grandmaster Flash & The Furious Five",
+      "has_synced": false,
+      "path": "select/08_The_Message_Grandmaster_Flash_&_The_Furious_Five.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Is The Message",
+      "artist": "MFSB",
+      "has_synced": true,
+      "path": "select/09_Love_Is_The_Message_MFSB.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "49ers",
+      "has_synced": false,
+      "path": "select/10_The_Message_49ers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Get the Message",
+      "artist": "Ivy",
+      "has_synced": true,
+      "path": "select/11_I_Get_the_Message_Ivy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Glass Candy",
+      "has_synced": false,
+      "path": "select/12_The_Message_Glass_Candy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Chris Travis",
+      "has_synced": false,
+      "path": "select/13_The_Message_Chris_Travis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Until Moon Medium Hears the Message",
+      "artist": "Circulatory System",
+      "has_synced": false,
+      "path": "select/14_Until_Moon_Medium_Hears_the_Message_Circulatory_System.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/15_The_Message_Dr._Dre.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Message",
+      "artist": "Dr. Dre",
+      "has_synced": false,
+      "path": "select/pl_01_The_Message_Dr._Dre.txt"
+    }
+  ]
+}
